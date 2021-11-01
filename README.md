@@ -11,6 +11,7 @@ By clicking on Logout you will be taken back to the login page .
  working sequence:
  LoginPage(click on: I am New User)--> Register page (Fill you data)-->click next(Upload Page)-->Click Submit-->Login Page(Enter  registered email and password)-->Details Page.
  
+ Here Go through the Login Folder.
  
  
  
